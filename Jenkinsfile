@@ -1,4 +1,4 @@
-@Library(['https://github.com/raaji1981/my-shared-library.git@main']) _
+@Library(['my-shared-library.git@main']) _
 
 pipeline {
     agent any
