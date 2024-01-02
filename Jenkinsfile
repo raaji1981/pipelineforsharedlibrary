@@ -9,10 +9,6 @@ pipeline {
                 // Use the shared step from the library
                 mySharedStep()
                 firstsharedfile()
-                script
-                { 
-                     greetUser("amith")
-                }   
 
             }
         }
